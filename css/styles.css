@@ -59,24 +59,39 @@ a {
     color: #404bbf;
 }
 
+.page-main {
+    background-color: #2E2F42;
+    color: #ffffff;
+}
 
+.page-main .text {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
 
-
-
-.button {
+.page-main .button {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.04em;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    Letter-Spacing: 4% 
+    Letter-Spacing: 4%;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+
+.page-main .button:hover,
+.page-main .button:focus {
+    background-color: #404BBF
 }
 
 
 
-.page-main {
-    background-color: #2E2F42;
-}
 
-.button {
-    background-color: #4D5AE5;  
-}
+
+
 
