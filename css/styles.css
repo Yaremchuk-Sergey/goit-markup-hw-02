@@ -9,16 +9,13 @@ ul, ol {
 
 a {
     text-decoration: none;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
 }
 
-.accent{
+.accent {
     color: #2E2F42;
 }
 
-.logo-web{
+.logo-web {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -28,36 +25,37 @@ a {
     color: #4d5ae5;
 }
 
-.site-nav.link{
+.site-nav .link { 
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
-a:hover,
-a:focus {
+.site-nav .link:hover,
+.site-nav .link:focus {
     color: #404bbf;
 }
 
 .logo-web:hover,
-.logo-web:focus{
+.logo-web:focus {
     color: #404bbf
 }
 
-.address{
+.address {
     font-style: normal;
 }
 
-.address.contacts{
+.address .contacts {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.address.contacts:hover,
-.address.contacts:focus{
+.address .contacts:hover,
+.address .contacts:focus {
     color: #404bbf;
 }
 
@@ -74,11 +72,11 @@ a:focus {
 
 
 
-.page-main{
+.page-main {
     background-color: #2E2F42;
 }
 
-.button{
+.button {
     background-color: #4D5AE5;  
 }
 
