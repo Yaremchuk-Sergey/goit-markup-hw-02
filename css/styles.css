@@ -48,11 +48,18 @@ a:focus {
 
 .address{
     font-style: normal;
-    color: #434455;
 }
 
 .address.contacts{
     color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.address.contacts:hover,
+.address.contacts:focus{
+    color: #404bbf;
 }
 
 
