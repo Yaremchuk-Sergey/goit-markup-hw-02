@@ -9,7 +9,6 @@ ul, ol {
 
 a {
     text-decoration: none;
-    color: #2E2F42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -48,7 +47,6 @@ a:focus {
 
 .address{
     font-style: normal;
-    color: #434455;
 }
 
 .address.contacts{
