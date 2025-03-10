@@ -93,7 +93,7 @@ a {
     background-color: #404BBF
 }
 
-/* 2 секція*/
+/* 2 секція */
 
 .heading {
     font-weight: 500;
@@ -110,5 +110,38 @@ a {
     color:  #434455;
 }
 
+/* 3 секція */
 
+.page-main2 {
+    background-color: #F4F4FD;
+}
+
+.page-main2 .heading2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.page-main2 .img {
+    background-color: #FFFFFF;
+}
+
+.heading3 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42; 
+}
+
+.text-list2 {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
 
