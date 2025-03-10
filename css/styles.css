@@ -38,6 +38,11 @@ a:focus {
     color: #404bbf;
 }
 
+.logo-title:hover,
+.logo-title:focus{
+    color: #404bbf
+}
+
 
 
 
