@@ -95,6 +95,10 @@ a {
 
 /* 2 секція*/
 
+.hidden {
+    display: none;
+}
+
 .page-benefits {
     font-weight: 500;
     font-size: 20px;
