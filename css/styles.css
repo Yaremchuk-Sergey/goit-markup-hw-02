@@ -68,7 +68,7 @@ a {
     color: #ffffff;
 }
 
-.page-main .text {
+.page-main .heading {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -95,7 +95,7 @@ a {
 
 /* 2 секція*/
 
-.strategy {
+.heading2 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
