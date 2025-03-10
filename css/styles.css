@@ -95,7 +95,7 @@ a {
 
 /* 2 секція*/
 
-.page-main1 .heading {
+.heading {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -103,7 +103,7 @@ a {
     color: #2e2f42;
 }
 
-.page-main1 .text2 {
+.text2 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
