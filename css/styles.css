@@ -116,7 +116,7 @@ a {
     background-color: #F4F4FD;
 }
 
-.page-two .heading2 {
+.page-two .heading-two {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -129,7 +129,7 @@ a {
     background-color: #FFFFFF;
 }
 
-.heading3 {
+.heading-two {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -138,7 +138,7 @@ a {
     color: #2e2f42; 
 }
 
-.text-list2 {
+.text-list-two {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
