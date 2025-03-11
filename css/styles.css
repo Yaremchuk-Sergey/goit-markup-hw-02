@@ -112,11 +112,11 @@ a {
 
 /* 3 секція */
 
-.page-main2 {
+.page-two {
     background-color: #F4F4FD;
 }
 
-.page-main2 .heading2 {
+.page-two .heading2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -125,7 +125,7 @@ a {
     color: #2e2f42;
 }
 
-.page-main2 .img {
+.page-two .img {
     background-color: #FFFFFF;
 }
 
