@@ -168,3 +168,25 @@ a {
 .page-four .img {
     color: #ffffff;
 }
+
+/* footer */
+
+.finish {
+    background-color: #2E2F42;
+}
+
+.text-list-three {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+.finish .accent {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}
